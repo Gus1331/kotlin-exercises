@@ -4,7 +4,7 @@ fun main() {
     // var cidade: String = null
 
     var cidade: String? = null
-    println(cidade?: "cidade não informada")
+    println(cidade?: "ci    dade não informada")
 
     bairro = "chumbo"
     println("O bairro é $bairro")
